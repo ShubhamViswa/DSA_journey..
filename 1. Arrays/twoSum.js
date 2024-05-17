@@ -1,4 +1,5 @@
-// Question link --> https://leetcode.com/problems/two-sum/description/
+// Question link --> 
+//https://leetcode.com/problems/two-sum/description/
 
 let twoSum = function(nums, target){
     let n=nums.length
